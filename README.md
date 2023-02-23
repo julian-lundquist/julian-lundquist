@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @julian-lundquist
 - 👀 I’m interested in DevOps, CICD, and AI/ML  
 - 🌱 I’m currently learning the most popular programming languages that are out there
-- 💞️ I’m looking to collaborate on UE5 game development, DevOps, CICD best practices, etc...
+- 💞️ I’m looking to collaborate on UE5 game development, DevOps, best practices in anything, etc...
 - 📫 How to reach me - julian.j.lundquist@gmail.com
 
 <!---
