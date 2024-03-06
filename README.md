@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @julian-lundquist
-- 👀 I’m interested in DevOps, CICD, and AI/ML  
+- 👀 I’m interested in Full-Stack Development, DevOps, CICD, and AI/ML  
 - 🌱 I’m currently learning the most popular frameworks and programming languages that are out there
 
 <!---
